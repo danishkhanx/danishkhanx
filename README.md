@@ -1,4 +1,4 @@
-# 🧑‍💻 Danish Khan | Full-Stack Developer
+# Danish | Full-Stack Developer
 
 📍 **Based in Bangalore, India**  
 📧 **Contact:** [mail2danish@proton.me](mailto:mail2danish@proton.me)  
