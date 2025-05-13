@@ -21,7 +21,7 @@ Passionate about crafting elegant digital solutions with a focus on clean, maint
 
 ## Portfolio
 
-My portfolio showcasing selected projects will be available soon at [danishkhan.dev](https://danishkhan.dev).
+My portfolio showcasing selected projects is coming soon.
 
 ## Professional Approach
 
@@ -44,4 +44,4 @@ Currently exploring advanced React patterns, serverless architectures, and real-
 
 ## Contact
 
-For collaboration or inquiries, please reach out via [GitHub](https://github.com/danishkhanx).
+For collaboration or inquiries, please reach out via email at mail2danish@proton.me.
