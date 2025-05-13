@@ -21,7 +21,7 @@ Passionate about crafting elegant digital solutions with a focus on clean, maint
 
 ## Portfolio
 
-My portfolio showcasing selected projects is coming soon.
+https://danishzzx.vercel.app
 
 ## Professional Approach
 
